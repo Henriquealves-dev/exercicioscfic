@@ -1,0 +1,21 @@
+/*
+ * Lab. 1 - Exemplo 1
+ * Exercicios 1 e 2: imprimir tambem a turma e o ano de fundacao da FCI
+ */
+
+#include <stdio.h>
+
+int main() {
+    // imprime algumas mensagens na tela
+    printf("Mackenzie - FCI\n");
+    printf("Algoritmos e ");
+    printf("Prog. II\n");
+
+    // Exercicio 1: nome da turma
+    printf("Turma: 04G\n");
+
+    // Exercicio 2: ano de fundacao da FCI
+    printf("A FCI foi fundada em 1970\n");
+
+    return 0;
+}
